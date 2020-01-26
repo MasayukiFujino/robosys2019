@@ -2,7 +2,7 @@
 
 # ライセンス概要
 
-This repository is licensed under the GPLv3 license, see LICENSE.
+This repository is licensed under the BSD license, see LICENSE.
 
 # 課題概要
 
