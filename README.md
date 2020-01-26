@@ -2,17 +2,19 @@
 
 # ライセンス概要
 
-This repository is licensed under the BSD license, see LICENSE.
+This repository is licensed under the BSD-3-Clause license, see LICENSE.
 
 # 課題概要
 
-・このデバイスドライバはGPLのもとアップロードされています。<br>
-・このデバイスドライバは、入力した数字に応じて、LEDを点灯させることができます。<br>
-・ただし、4よりも大きい数字を入力してもLEDは点灯しません。<br>
+講義で利用したプログラムになります。<br>
+Tera Termを同時に3つ開き、<br>
+
+$rosrun mypkg count.py
+$rourun mypkg 
+$
+
 
 # ファイルの位置
-
-Fujino_robosys/myled/myled.c
 
 # 操作方法
 
